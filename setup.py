@@ -47,7 +47,7 @@ setup(
         "pandas>=0.20.3",
         "gensim>=3.5.0",
         "scikit_learn>=0.19.1",
-        "tensorflow>=1.5.0",
+        "tensorflow-cpu>=1.5.0",
         "keras>=2.1.3",
     ],
     tests_require=["pytest>=3.3.2"],
