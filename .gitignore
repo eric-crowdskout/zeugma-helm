@@ -1,0 +1,15 @@
+htmlcov/
+.coverage
+.cache
+*.egg-info
+*.pyc
+*.csv
+.ipynb_checkpoints
+*.png
+venv/
+*.eggs
+docs/_build
+build/
+.mypy_cache/
+dist/
+*logs/
